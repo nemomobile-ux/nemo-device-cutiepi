@@ -1,7 +1,7 @@
-NAME="Pine64 PinePhone"
-ID=pine64
-MER_HA_DEVICE=pinephone
-MER_HA_VENDOR=pine64
+NAME="CutiePi tablet"
+ID=cutiepi
+MER_HA_DEVICE=cutiepi
+MER_HA_VENDOR=cutiepi
 VERSION="NEMOVER"
 VERSION_ID=NEMOVER
 PRETTY_NAME=" NEMOVER"
